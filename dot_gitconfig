@@ -1,0 +1,6 @@
+[user]
+	email = mike.l.clifton@gmail.com
+	username = mike.l.clifton
+	name = mlc
+[core]
+	autocrlf = false
